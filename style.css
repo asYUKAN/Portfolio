@@ -1,0 +1,35 @@
+.skill{
+  background-color: grey;
+  color: white;
+  
+  margin: 10px;
+  padding: 10px;
+  height: 10%;
+  width: 6%;
+}
+#skills{
+	 display: flex;  
+  flex-wrap: wrap;
+	padding: 10px;
+}
+
+span{
+	padding: 10px;
+}
+#contacts{
+	display: flex;  
+  flex-wrap: wrap;
+	padding: 10px;
+}
+
+#Edu{
+	padding: 10px;
+}
+.college{
+	 padding: 10px;
+	 background-color: grey;
+	 color: white;
+	 margin: 10px;
+	 width: 20%;
+	
+}
